@@ -1,15 +1,15 @@
 
-int rightMotor = 6;   
-int leftMotor = 5;
-int rightA = 2;
-int leftA = 3;
-int rightB = 10;
-int leftB = 11;
-int rightReverse = 4;      
-int leftReverse = 8;
+int rightMotor = 6;         //solded
+int leftMotor = 5;          //solded
+int rightA = 2;             //orange
+int leftA = 3;              //yellow
+int rightB = 10;            //brown
+int leftB = 11;             //grey
+int rightReverse = 4;       //green
+int leftReverse = 8;        //green
 
-int currentRight = A0;
-int currentLeft = A1;
+int currentRight = A0;      //white
+int currentLeft = A1;       //blue
 
 int currLeftValue = 0;
 int currRightValue = 0;
